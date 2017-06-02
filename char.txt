@@ -1,4 +1,0 @@
-i like 123 
-i am a student.
-test
-bim centos7
